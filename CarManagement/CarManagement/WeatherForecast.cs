@@ -1,4 +1,4 @@
-namespace CarManagement
+namespace Car_Management
 {
     public class WeatherForecast
     {

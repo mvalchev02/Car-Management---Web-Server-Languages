@@ -43,6 +43,18 @@ namespace Car_Management.Services
 
         public void AddGarage(GarageDto garageDto)
         {
+             if (garageDto.Id > 0)
+            {
+                var existingGarage = _garageRepository.GetGarageById(garageDto.Id);
+                if (existingGarage == null)
+                    throw new Exception($"Garage with ID {garageDto.Id} not found.");
+
+                 garageDto.Name = existingGarage.Name;
+                garageDto.Location = existingGarage.Location;
+                garageDto.City = existingGarage.City;
+                garageDto.Capacity = existingGarage.Capacity;
+            }
+
             var garage = new Garage
             {
                 Name = garageDto.Name,
@@ -50,8 +62,10 @@ namespace Car_Management.Services
                 City = garageDto.City,
                 Capacity = garageDto.Capacity
             };
+
             _garageRepository.AddGarage(garage);
         }
+
 
         public void UpdateGarage(GarageDto garageDto)
         {

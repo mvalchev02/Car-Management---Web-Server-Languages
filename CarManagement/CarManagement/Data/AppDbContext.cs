@@ -8,6 +8,7 @@ namespace Car_Management.Data
          public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
          public DbSet<Garage> Garages { get; set; }
+         public DbSet<Car> Cars { get; set; }
 
          protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

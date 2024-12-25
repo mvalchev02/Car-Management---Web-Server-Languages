@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zzy0oKNzATit6FVrtBGXXcResmM81pJutoWtcsIUuIjtDBan7ap9UDFrn5iAL4vF43mkvCC7CAMajjPn5a7HrQ==",
+  "dgSpecHash": "YCN3/GRE4g5IbNm3CgQvbkHICc7gi1sSwoqB+DC5EpYkaAZK/a2hrNPYPGYWHjvMfzlTd/c0GaBLWzQxW1LCVg==",
   "success": true,
-  "projectFilePath": "D:\\12e\\IV курс\\VIII семестър\\Уеб сървърни езици\\Car-Management---Web-Server-Languages\\CarManagement\\CarManagement\\CarManagement.csproj",
+  "projectFilePath": "D:\\12e\\IV курс\\VIII семестър\\Уеб сървърни езици\\CarManagement Project\\Car Management\\Car Management\\Car Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MyPC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MyPC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\MyPC\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.aspnet.cors\\5.3.0\\microsoft.aspnet.cors.5.3.0.nupkg.sha512",
     "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
@@ -87,5 +88,16 @@
     "C:\\Users\\MyPC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\MyPC\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Cors 5.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Cors",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

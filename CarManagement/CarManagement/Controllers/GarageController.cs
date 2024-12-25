@@ -39,7 +39,7 @@ public class GarageController : ControllerBase
     public IActionResult CreateGarage([FromBody] GarageDto garage )
     {
         _garageService.AddGarage(garage);
-        return CreatedAtAction(nameof(GetGarageById), new { id = garage .Id }, garage);
+        return CreatedAtAction(nameof(GetGarageById), new { id = garage.Name }, garage);
     }
 
     [HttpPut("{id}")]
