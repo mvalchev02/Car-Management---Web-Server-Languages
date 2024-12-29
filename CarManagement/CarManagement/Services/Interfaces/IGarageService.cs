@@ -9,5 +9,6 @@ namespace Car_Management.Services.Interfaces
         void AddGarage(GarageDto garageDto);
         void UpdateGarage(GarageDto garageDto);
         void DeleteGarage(int id);
+        IEnumerable<GarageDailyAvailabilityReportDTO> GetDailyAvailabilityReport(int garageId, DateTime startDate, DateTime endDate);
     }
 }

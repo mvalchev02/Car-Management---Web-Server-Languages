@@ -57,4 +57,24 @@ public class GarageController : ControllerBase
         _garageService.DeleteGarage(id);
         return NoContent();
     }
+
+    [HttpGet("dailyAvailabilityReport")]
+    public IActionResult GetDailyAvailabilityReport([FromQuery] int garageId, [FromQuery] DateTime startDate, [FromQuery] DateTime endDate)
+    {
+        try
+        {
+            if (garageId <= 0)
+            {
+                return BadRequest("Invalid garageId.");
+            }
+
+            var report = _garageService.GetDailyAvailabilityReport(garageId, startDate, endDate);
+            return Ok(report);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
+
 }

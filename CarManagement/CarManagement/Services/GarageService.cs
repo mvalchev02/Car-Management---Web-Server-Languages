@@ -84,5 +84,14 @@ namespace Car_Management.Services
         {
             _garageRepository.DeleteGarage(id);
         }
+        public IEnumerable<GarageDailyAvailabilityReportDTO> GetDailyAvailabilityReport(int garageId, DateTime startDate, DateTime endDate)
+        {
+            if (startDate > endDate)
+                throw new ArgumentException("startDate must be before or equal to endDate.");
+
+            return _garageRepository.GetDailyAvailabilityReport(garageId, startDate, endDate);
+        }
+
+
     }
 }

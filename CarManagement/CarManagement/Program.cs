@@ -3,6 +3,7 @@ using Car_Management.Data.Repositories;
 using Car_Management.Data.Repositories.Interfaces;
 using Car_Management.Services;
 using Car_Management.Services.Interfaces;
+using Microsoft.AspNetCore.Http.Json;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -18,6 +19,11 @@ namespace Car_Management
 
             builder.Services.AddControllers();
 
+            builder.Services.Configure<JsonOptions>(options =>
+            {
+                options.SerializerOptions.Converters.Add(new DateOnlyJSONConverter());
+            });
+
             builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default Connection")));
 
@@ -29,6 +35,24 @@ namespace Car_Management
 
             builder.Services.AddTransient<ICarRepository, CarRepository>();
             builder.Services.AddTransient<ICarService, CarService>();
+
+
+            builder.Services.AddTransient<IMaintenanceRepository, MaintenanceRepository>();
+            builder.Services.AddTransient<IMaintenanceService, MaintenanceService>();
+
+            builder.Services.AddCors();
+
+
+            /* builder.Services.AddCors(options =>
+             {
+                 options.AddPolicy("AllowNginx", policy =>
+                 {
+                     policy.WithOrigins("http://localhost:8088")
+                           .AllowAnyHeader()
+                           .AllowAnyMethod();
+                 });
+             });
+ */
 
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -45,9 +69,15 @@ namespace Car_Management
             }
 
             app.UseHttpsRedirection();
+            app.UseDefaultFiles();
             app.UseStaticFiles();
 
-            app.UseCors("AllowLocalhost");
+            //app.UseCors("AllowNginx");
+
+            app.UseCors(builder =>
+             builder.WithOrigins("http://localhost:3000") // React app URL
+              .AllowAnyMethod()
+              .AllowAnyHeader());
 
             app.UseRouting();
 

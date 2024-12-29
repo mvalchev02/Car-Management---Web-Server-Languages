@@ -4,6 +4,7 @@ using Car_Management.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Car_Management.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241227132340_update")]
+    partial class update
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -114,10 +117,6 @@ namespace Car_Management.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CarId");
-
-                    b.HasIndex("GarageId");
-
                     b.ToTable("Maintenances");
                 });
 
@@ -126,25 +125,6 @@ namespace Car_Management.Migrations
                     b.HasOne("Car_Management.Data.Entities.Car", null)
                         .WithMany("Garages")
                         .HasForeignKey("CarId");
-                });
-
-            modelBuilder.Entity("Car_Management.Data.Entities.Maintenance", b =>
-                {
-                    b.HasOne("Car_Management.Data.Entities.Car", "Car")
-                        .WithMany()
-                        .HasForeignKey("CarId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Car_Management.Data.Entities.Garage", "Garage")
-                        .WithMany()
-                        .HasForeignKey("GarageId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Car");
-
-                    b.Navigation("Garage");
                 });
 
             modelBuilder.Entity("Car_Management.Data.Entities.Car", b =>
