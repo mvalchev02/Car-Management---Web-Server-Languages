@@ -1,0 +1,667 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|d:\\12e\\iv \u043A\u0443\u0440\u0441\\viii \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0443\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\car-management---web-server-languages\\car management\\car management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\controllers\\garagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\controllers\\garagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\services\\garageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\services\\garageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\repositories\\garagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\repositories\\garagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\services\\interfaces\\igarageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\services\\interfaces\\igarageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\repositories\\interfaces\\igaragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\repositories\\interfaces\\igaragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\entities\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\entities\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dtos\\garagedailyavailabilityreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dtos\\garagedailyavailabilityreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\services\\maintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\services\\maintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\repositories\\maintenancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\repositories\\maintenancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\services\\interfaces\\imaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\services\\interfaces\\imaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\repositories\\interfaces\\imaintenancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\repositories\\interfaces\\imaintenancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dtos\\monthlyrequestsreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dtos\\monthlyrequestsreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dtos\\createmaintenancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dtos\\createmaintenancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\entities\\maintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\entities\\maintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dtos\\updatemaintenancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dtos\\updatemaintenancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dtos\\maintenancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dtos\\maintenancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dtos\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dtos\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\CarManagement Project\\Car Management\\Car Management\\Migrations\\20241227130600_AddEntityMaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dtos\\garagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dtos\\garagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\migrations\\20241219161653_garageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\migrations\\20241219161653_garageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\data\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\data\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\car management\\dtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:car management\\dtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MyPC\\AppData\\Local\\Temp\\1bfc4391-abc6-44fb-b16d-7dd96c781e0d_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MyPC\\AppData\\Local\\Temp\\e2a6de86-9cb6-4915-a571-84826844a8ae_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MyPC\\AppData\\Local\\Temp\\7b63bfa1-2b86-4863-ab4d-ff079f796c02_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Services\\Interfaces\\IDirectorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MyPC\\AppData\\Local\\Temp\\90c9c2ac-adfc-41f6-998c-64a19f8901be_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Controllers\\DirectorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MyPC\\AppData\\Local\\Temp\\ea66b95d-0bee-4fcf-b942-1c17a702426d_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Data\\Entities\\Director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MyPC\\AppData\\Local\\Temp\\4f983a19-8664-4605-af8d-e04b609b19ad_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Dtos\\DirectorDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Migrations\\20241227135227_ChangeDateType3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:Car Management\\Migrations\\20241227135227_ChangeDateType3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Migrations\\20241227132705_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A962D-AF08-4534-8E35-D4C9AEF0D32B}|Car Management\\Car Management.csproj|solutionrelative:Car Management\\Migrations\\20241227132705_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Program.cs",
+              "RelativeDocumentMoniker": "Car Management\\Program.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Program.cs",
+              "RelativeToolTip": "Car Management\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwEQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:22:09.437Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GarageRepository.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\GarageRepository.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\Repositories\\GarageRepository.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\GarageRepository.cs",
+              "RelativeToolTip": "Car Management\\Data\\Repositories\\GarageRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:16:16.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GarageService.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\GarageService.cs",
+              "RelativeDocumentMoniker": "Car Management\\Services\\GarageService.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\GarageService.cs",
+              "RelativeToolTip": "Car Management\\Services\\GarageService.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:10:57.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Entities\\Garage.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\Entities\\Garage.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Entities\\Garage.cs",
+              "RelativeToolTip": "Car Management\\Data\\Entities\\Garage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:57:21.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GarageController.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Controllers\\GarageController.cs",
+              "RelativeDocumentMoniker": "Car Management\\Controllers\\GarageController.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Controllers\\GarageController.cs",
+              "RelativeToolTip": "Car Management\\Controllers\\GarageController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:01:11.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGarageService.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\Interfaces\\IGarageService.cs",
+              "RelativeDocumentMoniker": "Car Management\\Services\\Interfaces\\IGarageService.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\Interfaces\\IGarageService.cs",
+              "RelativeToolTip": "Car Management\\Services\\Interfaces\\IGarageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:08:16.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaintenanceService.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\MaintenanceService.cs",
+              "RelativeDocumentMoniker": "Car Management\\Services\\MaintenanceService.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\MaintenanceService.cs",
+              "RelativeToolTip": "Car Management\\Services\\MaintenanceService.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowGsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:10:35.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\Repositories\\CarRepository.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Car Management\\Data\\Repositories\\CarRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAjwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:15:43.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Car Management\\WeatherForecast.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\WeatherForecast.cs",
+              "RelativeToolTip": "Car Management\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:26:22.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GarageDailyAvailabilityReportDTO.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\GarageDailyAvailabilityReportDTO.cs",
+              "RelativeDocumentMoniker": "Car Management\\DTOs\\GarageDailyAvailabilityReportDTO.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\GarageDailyAvailabilityReportDTO.cs",
+              "RelativeToolTip": "Car Management\\DTOs\\GarageDailyAvailabilityReportDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:57:17.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGarageRepository.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\Interfaces\\IGarageRepository.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\Repositories\\Interfaces\\IGarageRepository.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\Interfaces\\IGarageRepository.cs",
+              "RelativeToolTip": "Car Management\\Data\\Repositories\\Interfaces\\IGarageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:00:38.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "Car Management\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "Car Management\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:27:59.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMaintenanceService.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\Interfaces\\IMaintenanceService.cs",
+              "RelativeDocumentMoniker": "Car Management\\Services\\Interfaces\\IMaintenanceService.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\Interfaces\\IMaintenanceService.cs",
+              "RelativeToolTip": "Car Management\\Services\\Interfaces\\IMaintenanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:10:13.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaintenanceRepository.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\MaintenanceRepository.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\Repositories\\MaintenanceRepository.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\MaintenanceRepository.cs",
+              "RelativeToolTip": "Car Management\\Data\\Repositories\\MaintenanceRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:06:55.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMaintenanceRepository.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\Interfaces\\IMaintenanceRepository.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\Repositories\\Interfaces\\IMaintenanceRepository.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\Interfaces\\IMaintenanceRepository.cs",
+              "RelativeToolTip": "Car Management\\Data\\Repositories\\Interfaces\\IMaintenanceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:04:36.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MonthlyRequestsReportDTO.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\MonthlyRequestsReportDTO.cs",
+              "RelativeDocumentMoniker": "Car Management\\DTOs\\MonthlyRequestsReportDTO.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\MonthlyRequestsReportDTO.cs",
+              "RelativeToolTip": "Car Management\\DTOs\\MonthlyRequestsReportDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:06:47.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Maintenance.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Entities\\Maintenance.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\Entities\\Maintenance.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Entities\\Maintenance.cs",
+              "RelativeToolTip": "Car Management\\Data\\Entities\\Maintenance.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:03:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateMaintenanceDTO.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\CreateMaintenanceDTO.cs",
+              "RelativeDocumentMoniker": "Car Management\\DTOs\\CreateMaintenanceDTO.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\CreateMaintenanceDTO.cs",
+              "RelativeToolTip": "Car Management\\DTOs\\CreateMaintenanceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:03:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241227135227_ChangeDateType3.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Migrations\\20241227135227_ChangeDateType3.cs",
+              "RelativeDocumentMoniker": "Car Management\\Migrations\\20241227135227_ChangeDateType3.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Migrations\\20241227135227_ChangeDateType3.cs",
+              "RelativeToolTip": "Car Management\\Migrations\\20241227135227_ChangeDateType3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:52:28.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateMaintenanceDTO.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\UpdateMaintenanceDTO.cs",
+              "RelativeDocumentMoniker": "Car Management\\DTOs\\UpdateMaintenanceDTO.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\UpdateMaintenanceDTO.cs",
+              "RelativeToolTip": "Car Management\\DTOs\\UpdateMaintenanceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:04:09.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MaintenanceDTO.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\MaintenanceDTO.cs",
+              "RelativeDocumentMoniker": "Car Management\\DTOs\\MaintenanceDTO.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\MaintenanceDTO.cs",
+              "RelativeToolTip": "Car Management\\DTOs\\MaintenanceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:51:54.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\CarDTO.cs",
+              "RelativeDocumentMoniker": "Car Management\\DTOs\\CarDTO.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\CarDTO.cs",
+              "RelativeToolTip": "Car Management\\DTOs\\CarDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:07:52.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DateOnlyJSONConverter.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DateOnlyJSONConverter.cs",
+              "RelativeDocumentMoniker": "Car Management\\DateOnlyJSONConverter.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DateOnlyJSONConverter.cs",
+              "RelativeToolTip": "Car Management\\DateOnlyJSONConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:39:04.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateCarDto.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\UpdateCarDto.cs",
+              "RelativeDocumentMoniker": "Car Management\\DTOs\\UpdateCarDto.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\UpdateCarDto.cs",
+              "RelativeToolTip": "Car Management\\DTOs\\UpdateCarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:10:50.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Car Management\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:17:51.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241227132705_update2.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Migrations\\20241227132705_update2.cs",
+              "RelativeDocumentMoniker": "Car Management\\Migrations\\20241227132705_update2.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Migrations\\20241227132705_update2.cs",
+              "RelativeToolTip": "Car Management\\Migrations\\20241227132705_update2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:27:05.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\Entities\\Car.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Entities\\Car.cs",
+              "RelativeToolTip": "Car Management\\Data\\Entities\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:06:30.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241227130600_AddEntityMaintenance.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\CarManagement Project\\Car Management\\Car Management\\Migrations\\20241227130600_AddEntityMaintenance.cs",
+              "RelativeDocumentMoniker": "..\\..\\CarManagement Project\\Car Management\\Car Management\\Migrations\\20241227130600_AddEntityMaintenance.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\CarManagement Project\\Car Management\\Car Management\\Migrations\\20241227130600_AddEntityMaintenance.cs",
+              "RelativeToolTip": "..\\..\\CarManagement Project\\Car Management\\Car Management\\Migrations\\20241227130600_AddEntityMaintenance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:06:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GarageDto.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\GarageDto.cs",
+              "RelativeDocumentMoniker": "Car Management\\DTOs\\GarageDto.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\GarageDto.cs",
+              "RelativeToolTip": "Car Management\\DTOs\\GarageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:06:04.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Car Management\\Services\\CarService.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\CarService.cs",
+              "RelativeToolTip": "Car Management\\Services\\CarService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwBAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:33:38.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241219161653_GarageEntity.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Migrations\\20241219161653_GarageEntity.cs",
+              "RelativeDocumentMoniker": "Car Management\\Migrations\\20241219161653_GarageEntity.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Migrations\\20241219161653_GarageEntity.cs",
+              "RelativeToolTip": "Car Management\\Migrations\\20241219161653_GarageEntity.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:01:08.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "Car Management\\Services\\Interfaces\\ICarService.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Services\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "Car Management\\Services\\Interfaces\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:45:18.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Car Management\\Data\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Data\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "Car Management\\Data\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:13:17.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Car Management\\Controllers\\CarController.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Car Management\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:38:40.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateCarDto.cs",
+              "DocumentMoniker": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\CreateCarDto.cs",
+              "RelativeDocumentMoniker": "Car Management\\DTOs\\CreateCarDto.cs",
+              "ToolTip": "D:\\12e\\IV \u043A\u0443\u0440\u0441\\VIII \u0441\u0435\u043C\u0435\u0441\u0442\u044A\u0440\\\u0423\u0435\u0431 \u0441\u044A\u0440\u0432\u044A\u0440\u043D\u0438 \u0435\u0437\u0438\u0446\u0438\\Car-Management---Web-Server-Languages\\Car Management\\Car Management\\DTOs\\CreateCarDto.cs",
+              "RelativeToolTip": "Car Management\\DTOs\\CreateCarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:08:11.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\e2a6de86-9cb6-4915-a571-84826844a8ae_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\e2a6de86-9cb6-4915-a571-84826844a8ae_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:22:03.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\1bfc4391-abc6-44fb-b16d-7dd96c781e0d_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\1bfc4391-abc6-44fb-b16d-7dd96c781e0d_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Data\\AppDbContext.cs [Read Only]",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:17:23.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IDirectorService.cs",
+              "DocumentMoniker": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\7b63bfa1-2b86-4863-ab4d-ff079f796c02_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Services\\Interfaces\\IDirectorService.cs",
+              "ToolTip": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\7b63bfa1-2b86-4863-ab4d-ff079f796c02_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Services\\Interfaces\\IDirectorService.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:07:34.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\ea66b95d-0bee-4fcf-b942-1c17a702426d_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Data\\Entities\\Director.cs",
+              "ToolTip": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\ea66b95d-0bee-4fcf-b942-1c17a702426d_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Data\\Entities\\Director.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:06:16.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DirectorDto.cs",
+              "DocumentMoniker": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\4f983a19-8664-4605-af8d-e04b609b19ad_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Dtos\\DirectorDto.cs",
+              "ToolTip": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\4f983a19-8664-4605-af8d-e04b609b19ad_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Dtos\\DirectorDto.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:06:08.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DirectorController.cs",
+              "DocumentMoniker": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\90c9c2ac-adfc-41f6-998c-64a19f8901be_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Controllers\\DirectorController.cs",
+              "ToolTip": "C:\\Users\\MyPC\\AppData\\Local\\Temp\\90c9c2ac-adfc-41f6-998c-64a19f8901be_WebApplication1.zip.WebApplication1.zip\\WebApplication1\\Controllers\\DirectorController.cs [Read Only]",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:00:37.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
